@@ -1,3 +1,12 @@
 * {
     border: 2px solid red;
+    font-family: Roboto;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    font-weight: lighter;
 }
