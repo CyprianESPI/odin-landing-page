@@ -3,10 +3,24 @@
     font-family: Roboto;
 }
 
-.quote {
+.secondary {
+    margin-left: 20%;
+    margin-right: 20%;
     background-color: #e5e7eb;
     font-size: 36px;
     color: #1f2937;
     font-style: italic;
     font-weight: lighter;
 }
+
+.primary {
+    background-color: #1f2937;
+    color: #f9faf8;
+}
+
+/* It is dangerous to apply a style to all the elements
+div {
+    display: flex;
+    flex-direction: row;
+}
+*/
