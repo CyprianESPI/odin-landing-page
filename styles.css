@@ -2,6 +2,18 @@
     border: 2px solid red;
 }
 
+/* Containers */
+.grid {
+    display: grid;
+}
+
+.imgAccent {
+    border-color: #3882f6;
+    border-radius: 10px;
+    object-fit: cover;
+    width: 100%;
+}
+
 /* Colors */
 .primary1Fg {
     color: #1f2937;
