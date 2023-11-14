@@ -1,6 +1,5 @@
 * {
     border: 2px solid red;
-    font-family: Roboto;
 }
 
 /* Colors */
@@ -26,4 +25,24 @@
 
 .accentBg {
     background-color: #3882f6;
+}
+
+/* Font sizes */
+.fontHuge {
+    font-size: 48px;
+}
+
+.fontBig {
+    font-size: 36px;
+}
+
+.fontNormal {
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+}
+
+.fontSmall {
+    font-size: 18px;
 }
