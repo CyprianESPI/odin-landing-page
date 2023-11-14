@@ -3,24 +3,27 @@
     font-family: Roboto;
 }
 
-.secondary {
-    margin-left: 20%;
-    margin-right: 20%;
-    background-color: #e5e7eb;
-    font-size: 36px;
+/* Colors */
+.primary1Fg {
     color: #1f2937;
-    font-style: italic;
-    font-weight: lighter;
 }
 
-.primary {
+.primary1Bg {
     background-color: #1f2937;
+}
+
+.secondaryFg {
     color: #f9faf8;
 }
 
-/* It is dangerous to apply a style to all the elements
-div {
-    display: flex;
-    flex-direction: row;
+.secondaryBg {
+    background-color: #e5e7eb;
 }
-*/
+
+.accentFg {
+    color: #e5e7eb;
+}
+
+.accentBg {
+    background-color: #3882f6;
+}
